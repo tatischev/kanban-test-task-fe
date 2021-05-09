@@ -13,7 +13,7 @@
     "classnames": "^2.2.6",
     "devtools-detect": "^2.2.0",
     "formik": "^0.11.11",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "react": "16.4.1",
     "react-actioncable-provider": "^2.0.0",
     "react-dnd": "^5.0.0",
